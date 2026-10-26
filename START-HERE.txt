@@ -1,0 +1,9 @@
+HOW TO OPEN THE HARGEISA STORY MAP (no GitHub, no coding)
+=========================================================
+1. INSTALL VS CODE:  https://code.visualstudio.com
+2. ADD THE "LIVE SERVER" EXTENSION (by Ritwick Dey) from the Extensions panel.
+3. FILE > OPEN FOLDER > pick this "hargeisa-storymap-COMPLETE" folder
+   (the one containing index.html, dist, fonts, map, images).
+   If VS Code shows a yellow "Restricted Mode" bar, click "Manage" > "Trust".
+4. Right-click index.html > "Open with Live Server"  (or click "Go Live", bottom-right).
+Scroll to move through chapters. Be online (basemap tiles load from the web).
